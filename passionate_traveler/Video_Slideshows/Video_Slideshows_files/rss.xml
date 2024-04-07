@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Video Slideshows</title>
+    <link>http://www.passionate-traveler.com/passionate_traveler/Video_Slideshows/Video_Slideshows.html</link>
+    <description>Video Slideshows</description>
+    <item>
+      <title>ArcLight Exhibit </title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Video_Slideshows/Pages/ArcLight_Exhibit.html</link>
+      <guid isPermaLink="false">f8f748c2-6e13-4c49-a72f-52b773e7d1ac</guid>
+      <iphoto:thumbnail>http://www.passionate-traveler.com/passionate_traveler/Video_Slideshows/Video_Slideshows_files/ArcLight_Exhibit.jpg</iphoto:thumbnail>
+      <iweb:contents>1:23</iweb:contents>
+      <iweb:is-movie>true</iweb:is-movie>
+    </item>
+    <item>
+      <title>Mongolian Warriors</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Video_Slideshows/Pages/Mongolian_Warriors.html</link>
+      <guid isPermaLink="false">2bcd0b01-f7df-4670-9294-febf86f0a774</guid>
+      <iphoto:thumbnail>http://www.passionate-traveler.com/passionate_traveler/Video_Slideshows/Video_Slideshows_files/Mongolian_Warriors.jpg</iphoto:thumbnail>
+      <iweb:contents>0:50</iweb:contents>
+      <iweb:is-movie>true</iweb:is-movie>
+    </item>
+    <item>
+      <title>Dharamsala India</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Video_Slideshows/Pages/Dharamsala_India.html</link>
+      <guid isPermaLink="false">eae8498b-7fcf-4370-93c7-a15ae4d29506</guid>
+      <iphoto:thumbnail>http://www.passionate-traveler.com/passionate_traveler/Video_Slideshows/Video_Slideshows_files/Dharamsala_India.jpg</iphoto:thumbnail>
+      <iweb:contents>3:49</iweb:contents>
+      <iweb:is-movie>true</iweb:is-movie>
+    </item>
+    <item>
+      <title>Papua New Guinea</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Video_Slideshows/Pages/Papua_New_Guinea.html</link>
+      <guid isPermaLink="false">fbfd107a-9b3e-445a-ae2b-e6d18c925bd4</guid>
+      <iphoto:thumbnail>http://www.passionate-traveler.com/passionate_traveler/Video_Slideshows/Video_Slideshows_files/Papua_New_Guinea.jpg</iphoto:thumbnail>
+      <iweb:contents>4:50</iweb:contents>
+      <iweb:is-movie>true</iweb:is-movie>
+    </item>
+  </channel>
+</rss>

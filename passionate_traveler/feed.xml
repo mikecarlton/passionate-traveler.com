@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:FF04BE09-AF2E-4D3D-BB6A-6926BE0464D0</id>
+ <title>Page list Atom feed</title>
+ <updated>2011-10-19T16:49:09-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:FD0E6E0C-3FD4-4E3D-88B7-17F40B22047F</id>
+  <title>Home </title>
+  <title xmlns="urn:iweb:">Home </title>
+  <in-navbar xmlns="urn:iweb:">FD0E6E0C-3FD4-4E3D-88B7-17F40B22047F</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2011-10-19T16:49:09.001-07:00</updated>
+  <content>Home </content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C5F27EB4-343D-4FBB-9EA8-D60C8DAC1092</id>
+  <title>Gallery 1</title>
+  <title xmlns="urn:iweb:">Gallery 1</title>
+  <in-navbar xmlns="urn:iweb:">C5F27EB4-343D-4FBB-9EA8-D60C8DAC1092</in-navbar>
+  <link rel="alternate" href="Gallery_1/Gallery_1.html"/>
+  <updated>2011-10-19T16:49:09.002-07:00</updated>
+  <content>Gallery 1</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AE95D846-38F1-4094-B6AD-82513D1E2201</id>
+  <title>Gallery 2</title>
+  <title xmlns="urn:iweb:">Gallery 2</title>
+  <in-navbar xmlns="urn:iweb:">AE95D846-38F1-4094-B6AD-82513D1E2201</in-navbar>
+  <link rel="alternate" href="Gallery_2/Gallery_2.html"/>
+  <updated>2011-10-19T16:49:09.003-07:00</updated>
+  <content>Gallery 2</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9BDE9DB3-B0A3-4633-A53F-AA0C617AE038</id>
+  <title>Gallery 3</title>
+  <title xmlns="urn:iweb:">Gallery 3</title>
+  <in-navbar xmlns="urn:iweb:">9BDE9DB3-B0A3-4633-A53F-AA0C617AE038</in-navbar>
+  <link rel="alternate" href="Gallery_3/Gallery_3.html"/>
+  <updated>2011-10-19T16:49:09.004-07:00</updated>
+  <content>Gallery 3</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9DD9D77C-38F2-4669-9636-A1C750669A5C</id>
+  <title>Gallery 4</title>
+  <title xmlns="urn:iweb:">Gallery 4</title>
+  <in-navbar xmlns="urn:iweb:">9DD9D77C-38F2-4669-9636-A1C750669A5C</in-navbar>
+  <link rel="alternate" href="Gallery_4/Gallery_4.html"/>
+  <updated>2011-10-19T16:49:09.005-07:00</updated>
+  <content>Gallery 4</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A9FB4F75-9D6E-4340-A58E-5BF3D92C9526</id>
+  <title>Biography</title>
+  <title xmlns="urn:iweb:">Biography</title>
+  <in-navbar xmlns="urn:iweb:">A9FB4F75-9D6E-4340-A58E-5BF3D92C9526</in-navbar>
+  <link rel="alternate" href="Biography.html"/>
+  <updated>2011-10-19T16:49:09.006-07:00</updated>
+  <content>Biography</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:25B5F603-42B2-4032-8B06-0C28B08BC3A7</id>
+  <title>Photo Descriptions</title>
+  <title xmlns="urn:iweb:">Photo Descriptions</title>
+  <in-navbar xmlns="urn:iweb:">25B5F603-42B2-4032-8B06-0C28B08BC3A7</in-navbar>
+  <link rel="alternate" href="Photo_Descriptions.html"/>
+  <updated>2011-10-19T16:49:09.007-07:00</updated>
+  <content>Photo Descriptions</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DCFAD37A-843A-4E85-A2E1-12E98305B495</id>
+  <title>Video Slideshows</title>
+  <title xmlns="urn:iweb:">Video Slideshows</title>
+  <in-navbar xmlns="urn:iweb:">DCFAD37A-843A-4E85-A2E1-12E98305B495</in-navbar>
+  <link rel="alternate" href="Video_Slideshows/Video_Slideshows.html"/>
+  <updated>2011-10-19T16:49:09.008-07:00</updated>
+  <content>Video Slideshows</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F47B460B-58A7-4D52-A5CA-14D9EB08C9B0</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">F47B460B-58A7-4D52-A5CA-14D9EB08C9B0</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2011-10-19T16:49:09.009-07:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>

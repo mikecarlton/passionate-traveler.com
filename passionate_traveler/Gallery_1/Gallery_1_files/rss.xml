@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Gallery 1</title>
+    <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Gallery_1.html</link>
+    <description>Gallery 1</description>
+    <item>
+      <title>Alaska</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/Alaska.html</link>
+      <guid isPermaLink="false">348a70b0-0da4-4c6b-9574-18f02547836f</guid>
+    </item>
+    <item>
+      <title>Caucasus</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/Caucasus.html</link>
+      <guid isPermaLink="false">571730d4-494d-4584-a3cc-3c8aa5d06c0b</guid>
+    </item>
+    <item>
+      <title>Croatia</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/Croatia.html</link>
+      <guid isPermaLink="false">1a63e526-50d8-445b-aa60-0c2eede32944</guid>
+    </item>
+    <item>
+      <title>Egypt</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/Egypt.html</link>
+      <guid isPermaLink="false">20098749-3ad9-4d69-995f-78d1d169d957</guid>
+    </item>
+    <item>
+      <title>Galapagos</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/Galapagos.html</link>
+      <guid isPermaLink="false">82408904-76e8-4d9a-afb4-ce1c60a2dbe2</guid>
+    </item>
+    <item>
+      <title>India</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/India.html</link>
+      <guid isPermaLink="false">1cd5075c-13e8-455e-ac4f-feffcf580a66</guid>
+    </item>
+    <item>
+      <title>India•Children</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/IndiaChildren.html</link>
+      <guid isPermaLink="false">671883dc-8e0c-4d2c-a91d-a7fce372fb2c</guid>
+    </item>
+    <item>
+      <title>India•Scenes</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/IndiaScenes.html</link>
+      <guid isPermaLink="false">55796310-5363-4888-ae42-b5cfbd5da548</guid>
+    </item>
+    <item>
+      <title>India•Portraits Men</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/IndiaPortraits_Men.html</link>
+      <guid isPermaLink="false">b3de72ac-50ad-4475-8949-1020078145e9</guid>
+    </item>
+    <item>
+      <title>India•Portraits Women</title>
+      <link>http://www.passionate-traveler.com/passionate_traveler/Gallery_1/Pages/IndiaPortraits_Women.html</link>
+      <guid isPermaLink="false">564bba72-9cc6-4f5e-95f3-258bc39976db</guid>
+    </item>
+  </channel>
+</rss>
